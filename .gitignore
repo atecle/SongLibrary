@@ -4,3 +4,4 @@
 *.hg
 *.project
 *.DS_Store
+.hgignore
