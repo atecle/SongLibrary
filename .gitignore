@@ -1,0 +1,6 @@
+*.class
+*.settings
+*.classpath
+*.hg
+*.project
+*.DS_Store
